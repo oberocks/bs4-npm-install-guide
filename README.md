@@ -1,5 +1,5 @@
-# Bootstrap 4 NPM Installation Guide (1.0.1)
-A readme.md only repo to keep the specific steps needed to start using a fresh Bootstrap 4 install handy for BS4 users.
+# Bootstrap 4 NPM Installation Guide (1.0.2)
+A readme.md only repo to keep the specific steps needed to start using a fresh Bootstrap 4 install.
 
 ## Installation Steps
 
