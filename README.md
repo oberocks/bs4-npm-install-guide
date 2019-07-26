@@ -1,5 +1,11 @@
-# Bootstrap 4 NPM Installation Guide (1.0.2)
+# Bootstrap 4 NPM Installation Guide (1.0.3)
 A readme.md only repo to keep the specific steps needed to start using a fresh Bootstrap 4 install.
+
+## Dependencies
+You'll need the following software on your local machine to follow this guide:
+ * Node.js
+ * NPM (Comes with Node.js)
+ * VS Code (or a similar IDE)
 
 ## Installation Steps
 
