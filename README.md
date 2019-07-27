@@ -1,27 +1,26 @@
-# Bootstrap 4 NPM Installation Guide (1.0.4)
+# Bootstrap 4 NPM Installation Guide (1.0.5)
 A readme.md only repo to keep the specific steps needed to start using a fresh Bootstrap 4 install.
 
 ## Table of Contents
 * [Dependencies](#dependencies)
-* [Installation Steps (Terminal/Bash)](#installation-steps-terminalbash))
+* [Installation Steps (Terminal/Bash)](#manual-installation-steps-terminalbash)
+* [Installation Steps (VS Code)](#installation-steps-vs-code)
 
 ## Dependencies
 You'll need the following software on your local machine to follow this guide:
  * Node.js
  * NPM (Comes with Node.js)
- * VS Code (or a similar IDE)
 
-## Installation Steps (Terminal/Bash)
+## Manual Installation Steps (Terminal/Bash)
 
-1. Create a local project folder
-1. Navigate to the folder in Terminal
-	⁃ Type in "code ." (to launch VS Code (VSC) app)
-1. Create a "src" folder inside your project folder
-	- Inside the "src" folder, add the following folders
-		- "css"
-		- "js"
-		- "scss"
-1. Create a file inside the "src" folder called, "index.html"
+1. Create a local project directory with the name of your project
+1. Navigate to that directory in Terminal/Bash
+1. Create a `src` folder inside your project folder
+1. Inside that `src` directory create the following directories 
+  * `css`
+  * `js`
+  * `scss`
+1. Create a file inside the `src` directory called, `index.html`
 1. Get a bootstrap starter template and add the code to "index.html"
 1. Navigate back to the project folder, and open up the terminal pane in VSC
 	⁃ Type "npm init"
@@ -45,6 +44,9 @@ You'll need the following software on your local machine to follow this guide:
 			- partials
 1. Create a gulp file in the project folder called, "gulpfile.js"
 
+## Installation Steps (VS Code)
+1. Create a local project folder
+1. Open the folder in VS Code
 
 
 
