@@ -1,4 +1,4 @@
-# Bootstrap 4 NPM Installation Guide (1.0.5)
+# Bootstrap 4 NPM Installation Guide (1.0.6)
 A readme.md only repo to keep the specific steps needed to start using a fresh Bootstrap 4 install.
 
 ## Table of Contents
@@ -17,9 +17,9 @@ You'll need the following software on your local machine to follow this guide:
 1. Navigate to that directory in Terminal/Bash
 1. Create a `src` folder inside your project folder
 1. Inside that `src` directory create the following directories 
-  * `css`
-  * `js`
-  * `scss`
+    * `css`
+    * `js`
+    * `scss`
 1. Create a file inside the `src` directory called, `index.html`
 1. Get a bootstrap starter template and add the code to "index.html"
 1. Navigate back to the project folder, and open up the terminal pane in VSC
